@@ -51,6 +51,8 @@ O sistema combina três conceitos principais:
 
 ## Arquitetura
 
+![Arquitetura do sistema](arquitetura.png)
+
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                        FastAPI                          │
@@ -77,6 +79,8 @@ O sistema combina três conceitos principais:
 ```
 
 ### Fluxo de um registro
+
+![Fluxo de um registro](fluxo.png)
 
 ```
 POST /listings/
